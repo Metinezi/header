@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Poppins:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;500&display=swap');
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-size: 16pt;
+    font-family: 'Poppins', sans-serif;
+    background-color: #0A0A0B;
+    color: #fff;
+}
+.navbar {
+    background-color: #0A0A0B !important;
+    font-size: 14pt;
+}
+.h1 {
+    color: antiquewhite;
+    padding: 35% 0 0 10%;
+    font-weight: 500;
+    line-height: 60%;
+    
+}
+
+.h2 {
+    font-weight: 500;
+}
+
+.h1span {
+    color: antiquewhite;
+    font-weight: 200;
+    padding: 0 0 0 10%;
+}
+
+.banner .banner-img {
+    background-image: url("../img/header-set.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
